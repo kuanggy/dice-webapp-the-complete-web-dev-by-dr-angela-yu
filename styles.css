@@ -39,3 +39,8 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+#dice {
+  display: block;
+  margin: 0 auto 0 auto;
+}
